@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A jeans back pocket with a "skip track" symbol inside. Kept inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pocket outline -->
+    <path
+        android:pathData="M32,34 L76,34 L76,66 L54,78 L32,66 Z"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <!-- Pocket hem -->
+    <path
+        android:pathData="M32,41.5 L76,41.5"
+        android:strokeColor="#B3FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <!-- Skip-next symbol -->
+    <path
+        android:pathData="M44.5,48 L57.5,56.5 L44.5,65 Z"
+        android:fillColor="#FFFFFFFF"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M59,48 L63.5,48 L63.5,65 L59,65 Z"
+        android:fillColor="#FFFFFFFF" />
+</vector>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pocket Skip</string>
+    <string name="accessibility_description">Lets you skip tracks by holding the volume buttons while the screen is on, with the normal volume slider. The app only looks at the volume buttons.</string>
+</resources>
